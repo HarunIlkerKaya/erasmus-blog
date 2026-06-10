@@ -24,6 +24,25 @@ The website contains dedicated pages for the countries I visited, including pers
 * Personal travel experiences and ratings
 * Hosted with GitHub Pages
 
+## Screenshots
+
+### Countries Page
+
+![Countries Page](screenshots/countriesPage.png)
+
+
+### Hungary Page
+
+![Hungary Page](images/hungaryPage.png)
+
+### France Page
+
+![France Page](screenshots/francePage.png)
+
+### Germany Page
+
+![Germany Page](screenshots/germanyPage.png)
+
 ## Technologies Used
 
 * HTML5

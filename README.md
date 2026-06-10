@@ -33,7 +33,7 @@ The website contains dedicated pages for the countries I visited, including pers
 
 ### Hungary Page
 
-![Hungary Page](images/hungaryPage.png)
+![Hungary Page](screenshots/hungaryPage.png)
 
 ### France Page
 
